@@ -1,7 +1,7 @@
 # Authors
 
-Norberto Casarin (https://github.com/BandoleroNext)
-Antonio Gravina (https://github.com/GravAnt)
+Norberto Casarin (https://github.com/BandoleroNext)<br>
+Antonio Gravina (https://github.com/GravAnt)<br>
 Gabriele Nanni
 
 # Assignment 1

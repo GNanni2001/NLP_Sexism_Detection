@@ -1,3 +1,9 @@
+# Authors
+
+Norberto Casarin (https://github.com/BandoleroNext)
+Antonio Gravina (https://github.com/GravAnt)
+Gabriele Nanni
+
 # Assignment 1
 
 ## Running the code on local machine
